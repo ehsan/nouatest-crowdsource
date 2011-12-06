@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <windows.h>
 #include <shellapi.h>
+#pragma comment(lib, "user32.lib")
 #pragma comment(lib, "Ole32.lib")
 #pragma comment(lib, "Shell32.lib")
 
