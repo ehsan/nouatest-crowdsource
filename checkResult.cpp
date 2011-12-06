@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <windows.h>
+#include <shellapi.h>
+#pragma comment(lib, "Ole32.lib")
+#pragma comment(lib, "Shell32.lib")
+
+int main() {
+  FILE* file = fopen("log.txt", "r");
+  if (!file) {
+    return -1;
+  }
+  bool success = true;
+  char line[10240];
+  while (fgets(line, sizeof(line), file)) {
+    if (strstr(line, "TEST-UNEXPECTED-FAIL")) {
+      // the test has failed
+      success = false;
+      MessageBoxA(NULL, "The test has failed.\r\n\r\nPlease submit the log file for further investigation.", "Test", MB_ICONSTOP);
+      CoInitializeEx(NULL, COINIT_APARTMENTTHREADED | COINIT_DISABLE_OLE1DDE);
+      ShellExecuteA(NULL, "open", "explorer.exe", "/select, log.txt", NULL, SW_NORMAL);
+      break;
+    }
+  }
+  if (success) {
+    MessageBoxA(NULL, "The test passed successfully!", "Test", MB_OK);
+  }
+  fclose(file);
+  return 0;
+}
+
