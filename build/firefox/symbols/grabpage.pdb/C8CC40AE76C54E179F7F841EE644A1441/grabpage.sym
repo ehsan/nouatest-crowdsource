@@ -1,0 +1,895 @@
+MODULE windows x86 C8CC40AE76C54E179F7F841EE644A1441 grabpage.pdb
+FILE 1 hg:hg.mozilla.org/try:obj-firefox/parser/htmlparser/tests/grabpage/module.res:de392daf38ca
+FILE 2 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsCRT.h:de392daf38ca
+FILE 3 hg:hg.mozilla.org/try:obj-firefox/dist/include/plstr.h:de392daf38ca
+FILE 4 d:/sdks/v7.0/include/WinError.h
+FILE 5 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsTArray-inl.h:de392daf38ca
+FILE 6 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIURL.h:de392daf38ca
+FILE 7 d:/sdks/v7.0/include/Tvout.h
+FILE 8 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIURI.h:de392daf38ca
+FILE 9 d:/msvs8/vc/include/cstddef
+FILE 10 d:/msvs8/vc/include/stddef.h
+FILE 11 d:/msvs8/vc/include/new
+FILE 12 d:/sdks/v7.0/include/WinDef.h
+FILE 13 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIRunnable.h:de392daf38ca
+FILE 14 d:/msvs8/vc/include/stdio.h
+FILE 15 d:/sdks/v7.0/include/Guiddef.h
+FILE 16 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsThreadUtils.h:de392daf38ca
+FILE 17 d:/sdks/v7.0/include/WinGDI.h
+FILE 18 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIThreadManager.h:de392daf38ca
+FILE 19 hg:hg.mozilla.org/try:parser/htmlparser/tests/grabpage/grabpage.cpp:de392daf38ca
+FILE 20 d:/sdks/v7.0/include/Mcx.h
+FILE 21 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsAtomicRefcnt.h:de392daf38ca
+FILE 22 d:/msvs8/vc/include/string.h
+FILE 23 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsServiceManagerUtils.h:de392daf38ca
+FILE 24 hg:hg.mozilla.org/try:obj-firefox/dist/include/pratom.h:de392daf38ca
+FILE 25 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIChannel.h:de392daf38ca
+FILE 26 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIServiceManager.h:de392daf38ca
+FILE 27 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsCycleCollector.h:de392daf38ca
+FILE 28 hg:hg.mozilla.org/try:obj-firefox/dist/include/prlock.h:de392daf38ca
+FILE 29 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIRequest.h:de392daf38ca
+FILE 30 d:/sdks/v7.0/include/Reason.h
+FILE 31 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsComponentManagerUtils.h:de392daf38ca
+FILE 32 hg:hg.mozilla.org/try:obj-firefox/dist/include/mozilla/mozalloc_macro_wrappers.h:de392daf38ca
+FILE 33 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIFactory.h:de392daf38ca
+FILE 34 hg:hg.mozilla.org/try:obj-firefox/dist/include/prtypes.h:de392daf38ca
+FILE 35 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsISupportsBase.h:de392daf38ca
+FILE 36 hg:hg.mozilla.org/try:obj-firefox/dist/include/prcpucfg.h:de392daf38ca
+FILE 37 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsID.h:de392daf38ca
+FILE 38 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsStringGlue.h:de392daf38ca
+FILE 39 d:/sdks/v7.0/include/WinNT.h
+FILE 40 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsILocalFile.h:de392daf38ca
+FILE 41 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsStringAPI.h:de392daf38ca
+FILE 42 d:/sdks/v7.0/include/specstrings.h
+FILE 43 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIFile.h:de392daf38ca
+FILE 44 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsXPCOMStrings.h:de392daf38ca
+FILE 45 d:/sdks/v7.0/include/StrAlign.h
+FILE 46 d:/sdks/v7.0/include/sal_supp.h
+FILE 47 d:/sdks/v7.0/include/specstrings_supp.h
+FILE 48 d:/sdks/v7.0/include/specstrings_strict.h
+FILE 49 d:/sdks/v7.0/include/specstrings_undef.h
+FILE 50 d:/sdks/v7.0/include/Ime_cmodes.h
+FILE 51 d:/sdks/v7.0/include/PshPack8.h
+FILE 52 d:/sdks/v7.0/include/driverspecs.h
+FILE 53 hg:hg.mozilla.org/try:obj-firefox/dist/include/prlink.h:de392daf38ca
+FILE 54 hg:hg.mozilla.org/try:obj-firefox/dist/include/prio.h:de392daf38ca
+FILE 55 d:/msvs8/vc/include/sys/types.h
+FILE 56 d:/sdks/v7.0/include/WinSvc.h
+FILE 57 d:/sdks/v7.0/include/PshPack4.h
+FILE 58 d:/sdks/v7.0/include/sdv_driverspecs.h
+FILE 59 hg:hg.mozilla.org/try:obj-firefox/dist/include/prinet.h:de392daf38ca
+FILE 60 d:/sdks/v7.0/include/kernelspecs.h
+FILE 61 d:/sdks/v7.0/include/BaseTsd.h
+FILE 62 d:/sdks/v7.0/include/WinCon.h
+FILE 63 d:/msvs8/vc/include/swprintf.inl
+FILE 64 hg:hg.mozilla.org/try:obj-firefox/dist/include/prlog.h:de392daf38ca
+FILE 65 d:/msvs8/vc/include/sys/stat.inl
+FILE 66 d:/msvs8/vc/include/sys/stat.h
+FILE 67 hg:hg.mozilla.org/try:obj-firefox/dist/stl_wrappers/new:de392daf38ca
+FILE 68 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsQuickSort.h:de392daf38ca
+FILE 69 hg:hg.mozilla.org/try:obj-firefox/dist/include/mozilla/throw_msvc.h:de392daf38ca
+FILE 70 hg:hg.mozilla.org/try:obj-firefox/dist/include/mozilla/msvc_throw_wrapper.h:de392daf38ca
+FILE 71 d:/msvs8/vc/include/exception
+FILE 72 d:/msvs8/vc/include/xstddef
+FILE 73 hg:hg.mozilla.org/try:obj-firefox/dist/include/obsolete/protypes.h:de392daf38ca
+FILE 74 d:/msvs8/vc/include/yvals.h
+FILE 75 d:/msvs8/vc/include/use_ansi.h
+FILE 76 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIThread.h:de392daf38ca
+FILE 77 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIEventTarget.h:de392daf38ca
+FILE 78 hg:hg.mozilla.org/try:obj-firefox/dist/include/mozilla/Util.h:de392daf38ca
+FILE 79 d:/sdks/v7.0/include/WinNetWk.h
+FILE 80 hg:hg.mozilla.org/try:obj-firefox/dist/include/prprf.h:de392daf38ca
+FILE 81 hg:hg.mozilla.org/try:obj-firefox/dist/include/mozilla/Types.h:de392daf38ca
+FILE 82 d:/msvs8/vc/include/limits.h
+FILE 83 d:/sdks/v7.0/include/wnnc.h
+FILE 84 d:/msvs8/vc/include/stdarg.h
+FILE 85 hg:hg.mozilla.org/try:obj-firefox/dist/include/jstypes.h:de392daf38ca
+FILE 86 hg:hg.mozilla.org/try:obj-firefox/dist/include/js-config.h:de392daf38ca
+FILE 87 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsISupportsImpl.h:de392daf38ca
+FILE 88 hg:hg.mozilla.org/try:obj-firefox/dist/include/jscpucfg.h:de392daf38ca
+FILE 89 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsCOMPtr.h:de392daf38ca
+FILE 90 hg:hg.mozilla.org/try:obj-firefox/dist/include/prthread.h:de392daf38ca
+FILE 91 hg:hg.mozilla.org/try:obj-firefox/dist/include/jsinttypes.h:de392daf38ca
+FILE 92 hg:hg.mozilla.org/try:obj-firefox/dist/include/mozilla/Attributes.h:de392daf38ca
+FILE 93 hg:hg.mozilla.org/try:obj-firefox/dist/include/prinrval.h:de392daf38ca
+FILE 94 d:/sdks/v7.0/include/WinReg.h
+FILE 95 d:/sdks/v7.0/include/WinBase.h
+FILE 96 d:/sdks/v7.0/include/Imm.h
+FILE 97 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIInputStream.h:de392daf38ca
+FILE 98 d:/sdks/v7.0/include/ktmtypes.h
+FILE 99 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsAutoPtr.h:de392daf38ca
+FILE 100 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsCycleCollectorUtils.h:de392daf38ca
+FILE 101 d:/sdks/v7.0/include/PopPack.h
+FILE 102 hg:hg.mozilla.org/try:obj-firefox/dist/include/mozilla/threads/nsThreadIDs.h:de392daf38ca
+FILE 103 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsError.h:de392daf38ca
+FILE 104 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsCRTGlue.h:de392daf38ca
+FILE 105 hg:hg.mozilla.org/try:obj-firefox/dist/include/prtime.h:de392daf38ca
+FILE 106 d:/sdks/v7.0/include/WinVer.h
+FILE 107 hg:hg.mozilla.org/try:obj-firefox/dist/include/prlong.h:de392daf38ca
+FILE 108 d:/sdks/v7.0/include/VerRsrc.h
+FILE 109 d:/sdks/v7.0/include/PshPack2.h
+FILE 110 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsTArray.h:de392daf38ca
+FILE 111 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsAlgorithm.h:de392daf38ca
+FILE 112 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsNetCID.h:de392daf38ca
+FILE 113 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsCharTraits.h:de392daf38ca
+FILE 114 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIIOService.h:de392daf38ca
+FILE 115 hg:hg.mozilla.org/try:obj-firefox/dist/include/jsotypes.h:de392daf38ca
+FILE 116 d:/msvs8/vc/include/ctype.h
+FILE 117 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsCppSharedAllocator.h:de392daf38ca
+FILE 118 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsISupportsUtils.h:de392daf38ca
+FILE 119 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsMemory.h:de392daf38ca
+FILE 120 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsDebug.h:de392daf38ca
+FILE 121 d:/sdks/v7.0/include/WinNls.h
+FILE 122 d:/sdks/v7.0/include/WinUser.h
+FILE 123 d:/sdks/v7.0/include/PshPack1.h
+FILE 124 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIMemory.h:de392daf38ca
+FILE 125 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsXPCOM.h:de392daf38ca
+FILE 126 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsXPCOMCID.h:de392daf38ca
+FILE 127 hg:hg.mozilla.org/try:obj-firefox/dist/include/mozilla-config.h:de392daf38ca
+FILE 128 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIStreamListener.h:de392daf38ca
+FILE 129 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIRequestObserver.h:de392daf38ca
+FILE 130 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsISupports.h:de392daf38ca
+FILE 131 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsrootidl.h:de392daf38ca
+FILE 132 hg:hg.mozilla.org/try:obj-firefox/dist/include/nscore.h:de392daf38ca
+FILE 133 hg:hg.mozilla.org/try:obj-firefox/dist/include/xpcom-config.h:de392daf38ca
+FILE 134 hg:hg.mozilla.org/try:obj-firefox/dist/include/mozilla/mozalloc.h:de392daf38ca
+FILE 135 d:/msvs8/vc/include/stdlib.h
+FILE 136 d:/msvs8/vc/include/crtdefs.h
+FILE 137 d:/msvs8/vc/include/sal.h
+FILE 138 d:/sdks/v7.0/include/Windows.h
+FILE 139 d:/msvs8/vc/include/crtassem.h
+FILE 140 d:/sdks/v7.0/include/sdkddkver.h
+FILE 141 d:/msvs8/vc/include/vadefs.h
+FILE 142 d:/msvs8/vc/include/excpt.h
+FILE 143 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsTraceRefcnt.h:de392daf38ca
+FILE 149 hg:hg.mozilla.org/try:xpcom/glue/nsCOMPtr.cpp:de392daf38ca
+FILE 150 hg:hg.mozilla.org/try:xpcom/glue/nsTraceRefcnt.h:de392daf38ca
+FILE 151 hg:hg.mozilla.org/try:xpcom/glue/nsISupportsUtils.h:de392daf38ca
+FILE 168 hg:hg.mozilla.org/try:xpcom/build/nsXPCOM.h:de392daf38ca
+FILE 169 hg:hg.mozilla.org/try:xpcom/build/nsXPCOMCID.h:de392daf38ca
+FILE 171 hg:hg.mozilla.org/try:xpcom/glue/nsCOMPtr.h:de392daf38ca
+FILE 172 hg:hg.mozilla.org/try:xpcom/glue/nsISupportsImpl.h:de392daf38ca
+FILE 176 hg:hg.mozilla.org/try:xpcom/glue/nsDebug.h:de392daf38ca
+FILE 185 hg:hg.mozilla.org/try:xpcom/glue/nsCycleCollectorUtils.h:de392daf38ca
+FILE 192 d:/msvs8/vc/include/io.h
+FILE 197 hg:hg.mozilla.org/try:xpcom/glue/nsCRTGlue.cpp:de392daf38ca
+FILE 211 hg:hg.mozilla.org/try:xpcom/glue/nsCRTGlue.h:de392daf38ca
+FILE 222 hg:hg.mozilla.org/try:xpcom/glue/nsServiceManagerUtils.h:de392daf38ca
+FILE 229 hg:hg.mozilla.org/try:xpcom/glue/nsComponentManagerUtils.cpp:de392daf38ca
+FILE 245 hg:hg.mozilla.org/try:xpcom/glue/nsComponentManagerUtils.h:de392daf38ca
+FILE 267 hg:hg.mozilla.org/try:obj-firefox/dist/include/nsIComponentManager.h:de392daf38ca
+FILE 286 hg:hg.mozilla.org/try:xpcom/glue/nsISupportsImpl.cpp:de392daf38ca
+FILE 323 hg:hg.mozilla.org/try:xpcom/glue/nsQuickSort.h:de392daf38ca
+FILE 337 hg:hg.mozilla.org/try:xpcom/glue/nsTArray.cpp:de392daf38ca
+FILE 350 hg:hg.mozilla.org/try:xpcom/glue/nsTArray.h:de392daf38ca
+FILE 361 hg:hg.mozilla.org/try:xpcom/glue/nsTArray-inl.h:de392daf38ca
+FILE 385 hg:hg.mozilla.org/try:xpcom/glue/nsStringGlue.h:de392daf38ca
+FILE 388 hg:hg.mozilla.org/try:xpcom/glue/nsStringAPI.h:de392daf38ca
+FILE 392 hg:hg.mozilla.org/try:xpcom/glue/nsThreadUtils.cpp:de392daf38ca
+FILE 454 hg:hg.mozilla.org/try:xpcom/build/nsXPCOMCIDInternal.h:de392daf38ca
+FILE 468 hg:hg.mozilla.org/try:xpcom/glue/nsThreadUtils.h:de392daf38ca
+FILE 497 hg:hg.mozilla.org/try:xpcom/glue/nsStringAPI.cpp:de392daf38ca
+FILE 549 f:/sp/public/sdk/inc/poppack.h
+FILE 550 f:/sp/public/sdk/inc/winnetwk.h
+FILE 551 f:/sp/public/sdk/inc/imm.h
+FILE 552 f:/sp/vctools/crt_bld/self_x86/crt/src/stdarg.h
+FILE 553 f:/sp/public/sdk/inc/windef.h
+FILE 554 f:/sp/vctools/crt_bld/self_x86/crt/src/crtdbg.h
+FILE 555 f:/sp/public/sdk/inc/pshpack1.h
+FILE 556 f:/sp/public/sdk/inc/winver.h
+FILE 557 f:/sp/vctools/crt_bld/self_x86/crt/src/internal.h
+FILE 558 f:/sp/vctools/crt_bld/self_x86/crt/src/crtdefs.h
+FILE 559 f:/sp/vctools/crt_bld/self_x86/crt/src/sal.h
+FILE 560 f:/sp/public/sdk/inc/winnt.h
+FILE 561 f:/sp/vctools/crt_bld/self_x86/crt/src/ctype.h
+FILE 562 f:/sp/vctools/crt_bld/self_x86/crt/src/errno.h
+FILE 563 f:/sp/public/sdk/inc/winreg.h
+FILE 564 f:/sp/vctools/crt_bld/self_x86/crt/src/_newmode.c
+FILE 565 f:/sp/public/sdk/inc/winbase.h
+FILE 566 f:/sp/public/sdk/inc/winerror.h
+FILE 567 f:/sp/public/sdk/inc/pshpack8.h
+FILE 568 f:/sp/public/sdk/inc/reason.h
+FILE 569 f:/sp/public/sdk/inc/wincon.h
+FILE 570 f:/sp/public/sdk/inc/ddbanned.h
+FILE 571 f:/sp/vctools/crt_bld/self_x86/crt/src/vadefs.h
+FILE 572 f:/sp/vctools/crt_bld/self_x86/crt/src/cruntime.h
+FILE 573 f:/sp/public/sdk/inc/pshpack2.h
+FILE 574 f:/sp/public/sdk/inc/mcx.h
+FILE 575 f:/sp/public/sdk/inc/winuser.h
+FILE 576 f:/sp/vctools/crt_bld/self_x86/crt/src/limits.h
+FILE 577 f:/sp/public/sdk/inc/winnls.h
+FILE 578 f:/sp/public/sdk/inc/guiddef.h
+FILE 579 f:/sp/public/sdk/inc/windows.h
+FILE 580 f:/sp/vctools/crt_bld/self_x86/crt/src/excpt.h
+FILE 581 f:/sp/public/sdk/inc/specstrings.h
+FILE 582 f:/sp/public/sdk/inc/basetsd.h
+FILE 583 f:/sp/public/sdk/inc/stralign.h
+FILE 584 f:/sp/public/sdk/inc/tvout.h
+FILE 585 f:/sp/public/sdk/inc/winsvc.h
+FILE 586 f:/sp/vctools/crt_bld/self_x86/crt/src/string.h
+FILE 587 f:/sp/public/sdk/inc/wingdi.h
+FILE 588 f:/sp/public/sdk/inc/pshpack4.h
+FILE 604 f:/sp/vctools/crt_bld/self_x86/crt/src/xncommod.c
+FILE 629 f:/sp/vctools/crt_bld/self_x86/crt/src/stdlib.h
+FILE 632 f:/sp/vctools/crt_bld/self_x86/crt/src/xtxtmode.c
+FILE 644 f:/sp/vctools/crt_bld/self_x86/crt/src/mtdll.h
+FILE 649 f:/sp/vctools/crt_bld/self_x86/crt/src/locale.h
+FILE 651 f:/sp/vctools/crt_bld/self_x86/crt/src/xthdloc.c
+FILE 674 f:/sp/vctools/crt_bld/self_x86/crt/src/setlocal.h
+FILE 675 f:/sp/vctools/crt_bld/self_x86/crt/src/oscalls.h
+FILE 704 f:/sp/vctools/crt_bld/self_x86/crt/src/atonexit.c
+FILE 746 f:/sp/vctools/crt_bld/self_x86/crt/src/stdio.h
+FILE 751 f:/sp/vctools/crt_bld/self_x86/crt/src/cinitexe.c
+FILE 756 f:/sp/vctools/crt_bld/self_x86/crt/src/swprintf.inl
+FILE 757 f:/sp/vctools/crt_bld/self_x86/crt/src/sect_attribs.h
+FILE 780 f:/sp/vctools/crt_bld/self_x86/crt/src/tchar.h
+FILE 782 f:/sp/vctools/crt_bld/self_x86/crt/src/mbstring.h
+FILE 785 f:/sp/vctools/crt_bld/self_x86/crt/src/rterr.h
+FILE 789 f:/sp/vctools/crt_bld/self_x86/crt/src/rtcapi.h
+FILE 796 f:/sp/vctools/crt_bld/self_x86/crt/src/crtexe.c
+FILE 806 f:/sp/vctools/crt_bld/self_x86/crt/src/process.h
+FILE 811 f:/sp/vctools/crt_bld/self_x86/crt/src/math.h
+FILE 819 f:/sp/vctools/crt_bld/self_x86/crt/src/crtassem.h
+FILE 820 f:/sp/vctools/crt_bld/self_x86/crt/src/crtmanifest.c
+FILE 839 f:/sp/vctools/crt_bld/self_x86/crt/src/dllargv.c
+FILE 870 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/excpt.h
+FILE 872 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/eh/ehvecdtr.cpp
+FILE 874 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/eh.h
+FILE 879 f:/sp/vctools/langapi/include/ehdata.h
+FILE 880 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/stddef.h
+FILE 882 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/crtdefs.h
+FILE 883 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/sal.h
+FILE 887 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/stdarg.h
+FILE 895 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/ctype.h
+FILE 899 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/vadefs.h
+FILE 900 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/cruntime.h
+FILE 902 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/string.h
+FILE 918 f:/sp/vctools/crt_bld/self_x86/crt/src/gs_cookie.c
+FILE 954 f:/sp/vctools/crt_bld/self_x86/crt/src/gs_report.c
+FILE 957 f:/sp/vctools/crt_bld/self_x86/crt/src/dbgint.h
+FILE 982 f:/binaries.x86ret/vcboot/inc/mm3dnow.h
+FILE 984 f:/sp/vctools/crt_bld/self_x86/crt/src/malloc.h
+FILE 994 f:/sp/vctools/crt_bld/self_x86/crt/src/gs_support.c
+FILE 997 f:/sp/vctools/crt_bld/self_x86/crt/src/intrin.h
+FILE 998 f:/sp/vctools/crt_bld/self_x86/crt/src/setjmp.h
+FILE 1011 f:/sp/vctools/crt_bld/self_x86/crt/src/stddef.h
+FILE 1017 f:/binaries.x86ret/vcboot/inc/emmintrin.h
+FILE 1018 f:/binaries.x86ret/vcboot/inc/xmmintrin.h
+FILE 1019 f:/binaries.x86ret/vcboot/inc/mmintrin.h
+FILE 1036 f:/sp/vctools/crt_bld/self_x86/crt/src/merr.c
+FILE 1075 f:/sp/vctools/crt_bld/self_x86/crt/src/natstart.c
+FILE 1117 f:/sp/vctools/crt_bld/self_x86/crt/src/pesect.c
+FILE 1138 f:/sp/vctools/crt_bld/self_x86/crt/src/typeinfo
+FILE 1139 f:/sp/vctools/crt_bld/self_x86/crt/src/xstddef
+FILE 1140 f:/sp/vctools/crt_bld/self_x86/crt/src/yvals.h
+FILE 1141 f:/sp/vctools/crt_bld/self_x86/crt/src/use_ansi.h
+FILE 1142 f:/sp/vctools/crt_bld/self_x86/crt/src/ti_inst.cpp
+FILE 1143 f:/sp/vctools/crt_bld/self_x86/crt/src/typeinfo.h
+FILE 1146 f:/sp/vctools/crt_bld/self_x86/crt/src/cstddef
+FILE 1153 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/stdlib.h
+FILE 1157 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/crtdbg.h
+FILE 1160 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/eh/unhandld.cpp
+FILE 1174 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/sect_attribs.h
+FILE 1177 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/ehhooks.h
+FILE 1178 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/errno.h
+FILE 1182 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/ehassert.h
+FILE 1187 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/internal.h
+FILE 1189 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/limits.h
+FILE 1213 f:/sp/vctools/crt_bld/self_x86/crt/src/wildcard.c
+FILE 1238 f:/sp/vctools/crt_bld/self_x86/crt/src/adjustfd.c
+FILE 1242 f:/sp/public/sdk/inc/ntldr.h
+FILE 1243 f:/sp/public/sdk/inc/ntpoapi.h
+FILE 1244 f:/sp/public/sdk/inc/ntexapi.h
+FILE 1248 f:/sp/public/sdk/inc/ntdef.h
+FILE 1250 f:/sp/public/sdk/inc/mce.h
+FILE 1252 f:/sp/public/sdk/inc/ntimage.h
+FILE 1254 f:/sp/public/sdk/inc/ntpsapi.h
+FILE 1255 f:/sp/public/sdk/inc/nti386.h
+FILE 1256 f:/sp/public/sdk/inc/nt.h
+FILE 1262 f:/sp/public/sdk/inc/ntxcapi.h
+FILE 1264 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/misc/i386/chandler4gs.c
+FILE 1265 f:/sp/public/sdk/inc/ntstatus.h
+FILE 1266 f:/sp/public/sdk/inc/ntkeapi.h
+FILE 1267 f:/sp/public/sdk/inc/ntconfig.h
+FILE 1268 f:/sp/public/sdk/inc/ntregapi.h
+FILE 1269 f:/sp/public/sdk/inc/ntmmapi.h
+FILE 1270 f:/sp/public/sdk/inc/ntobapi.h
+FILE 1271 f:/sp/public/sdk/inc/nxi386.h
+FILE 1272 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/process.h
+FILE 1273 f:/sp/public/sdk/inc/ntioapi.h
+FILE 1274 f:/sp/public/sdk/inc/devioctl.h
+FILE 1276 f:/sp/public/sdk/inc/ntseapi.h
+FILE 1280 f:/sp/public/sdk/inc/ntnls.h
+FILE 1281 f:/sp/public/sdk/inc/ntelfapi.h
+FILE 1283 f:/sp/public/sdk/inc/ntiolog.h
+FILE 1284 f:/sp/public/sdk/inc/ntlpcapi.h
+FILE 1285 f:/sp/public/sdk/inc/ntpnpapi.h
+FILE 1286 f:/sp/public/sdk/inc/cfg.h
+FILE 1287 f:/sp/public/sdk/inc/pebteb.h
+FILE 1312 f:/sp/vctools/crt_bld/self_x86/crt/src/intel/fp8.c
+FILE 1329 f:/sp/vctools/crt_bld/self_x86/crt/src/float.h
+FILE 1330 f:/sp/vctools/crt_bld/self_x86/crt/src/crtwrn.h
+FILE 1346 f:/sp/vctools/crt_bld/self_x86/crt/src/intel/loadcfg.c
+FILE 1382 f:/sp/vctools/crt_bld/self_x86/crt/src/intel/secchk.c
+FILE 1404 F:/SP/vctools/crt_bld/SELF_X86/crt/prebuild/misc/i386/sehprolg4.asm
+FILE 1405 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/rtcapi.h
+FILE 1410 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/rtcpriv.h
+FILE 1412 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/h/malloc.h
+FILE 1419 f:/sp/vctools/crt_bld/self_x86/crt/prebuild/rtc/initsect.cpp
+FUNC 1000 6 4 operator delete(void *)
+1000 0 252 134
+1000 6 253 134
+FUNC 1006 15 4 nsCOMPtr_base::assign_assuming_AddRef(nsISupports *)
+1006 0 495 89
+1006 2 504 89
+1008 a 508 89
+1012 6 509 89
+1018 3 510 89
+FUNC 101b 2e c nsACString::Replace(unsigned int,unsigned int,nsACString const &)
+101b 4 511 41
+101f 11 513 41
+1030 15 514 41
+1045 4 515 41
+FUNC 1049 d 4 StreamToFile::AddRef()
+1049 d 102 19
+FUNC 1056 1d 4 StreamToFile::Release()
+1056 1d 102 19
+FUNC 1073 19 c StreamToFile::QueryInterface(nsID const &,void * *)
+1073 19 102 19
+FUNC 108c 16 0 StreamToFile::~StreamToFile()
+108c 6 105 19
+1092 7 106 19
+1099 8 107 19
+10a1 1 109 19
+FUNC 10a2 5 8 StreamToFile::GetBindInfo(nsIURI *)
+10a2 0 113 19
+10a2 2 114 19
+10a4 3 115 19
+FUNC 10a7 5 10 StreamToFile::OnProgress(nsIURI *,int,int)
+10a7 0 119 19
+10a7 2 120 19
+10a9 3 121 19
+FUNC 10ac 5 c StreamToFile::OnStartRequest(nsIRequest *,nsISupports *)
+10ac 0 125 19
+10ac 2 126 19
+10ae 3 127 19
+FUNC 10b1 73 18 StreamToFile::OnDataAvailable(nsIRequest *,nsISupports *,nsIInputStream *,unsigned int,unsigned int)
+10b1 1b 142 19
+10cc 19 146 19
+10e5 4 147 19
+10e9 7 148 19
+10f0 19 149 19
+1109 9 152 19
+1112 12 154 19
+FUNC 1124 18 10 StreamToFile::OnStopRequest(nsIRequest *,nsISupports *,unsigned int)
+1124 0 159 19
+1124 f 161 19
+1133 4 162 19
+1137 2 164 19
+1139 3 165 19
+FUNC 113c 25 4 PageGrabber::operator new(unsigned int)
+113c 25 176 19
+FUNC 1161 19 4 nsCOMPtr<nsILocalFile>::nsCOMPtr<nsILocalFile>(nsILocalFile *)
+1161 4 603 89
+1165 9 604 89
+116e 6 605 89
+1174 6 608 89
+FUNC 117a 1a 4 nsCOMPtr<nsILocalFile>::nsCOMPtr<nsILocalFile>(nsQueryInterface)
+117a 1 621 89
+117b 13 623 89
+118e 6 624 89
+FUNC 1194 1e 4 nsCString_external::nsCString_external(nsCString_external const &)
+1194 3 869 41
+1197 7 871 41
+119e e 872 41
+11ac 6 873 41
+FUNC 11b2 20 4 NS_ConvertUTF16toUTF8_external::NS_ConvertUTF16toUTF8_external(nsAString const &)
+11b2 a 1052 41
+11bc 10 1054 41
+11cc 6 1055 41
+FUNC 11d2 1b 0 do_GetCurrentThread()
+11d2 4 216 16
+11d6 4 217 16
+11da 9 218 16
+11e3 8 219 16
+11eb 2 220 16
+FUNC 11ed 1d 0 StreamToFile::`scalar deleting destructor'(unsigned int)
+FUNC 120a 1d 4 StreamToFile::StreamToFile(_iobuf *)
+120a d 94 19
+1217 3 95 19
+121a 3 96 19
+121d 7 97 19
+1224 3 98 19
+FUNC 1227 ba 4 PageGrabber::NextFile(char const *)
+1227 9 206 19
+1230 32 207 19
+1262 26 208 19
+1288 10 210 19
+1298 b 211 19
+12a3 10 212 19
+12b3 13 213 19
+12c6 17 214 19
+12dd 4 215 19
+FUNC 12e1 209 4 PageGrabber::Grab(nsCString_external const &)
+12e1 9 219 19
+12ea 13 222 19
+12fd e 223 19
+130b d 224 19
+1318 4 274 19
+131c 14 227 19
+1330 a 228 19
+133a 2 229 19
+133c e 231 19
+134a 1e 232 19
+1368 a 233 19
+1372 10 234 19
+1382 c 235 19
+138e 12 236 19
+13a0 23 241 19
+13c3 32 242 19
+13f5 17 244 19
+140c 16 246 19
+1422 b 247 19
+142d 1d 250 19
+144a 4 251 19
+144e 2b 252 19
+1479 6 254 19
+147f b 256 19
+148a 7 258 19
+1491 6 259 19
+1497 8 260 19
+149f 11 264 19
+14b0 10 266 19
+14c0 5 265 19
+14c5 5 270 19
+14ca 10 271 19
+14da 10 273 19
+FUNC 14ea 134 8 main
+14ea 8 280 19
+14f2 b 281 19
+14fd 7 283 19
+1504 1a 284 19
+151e 10 285 19
+152e 2 300 19
+1530 8 287 19
+1538 d 288 19
+1545 27 289 19
+156c 42 290 19
+15ae 17 291 19
+15c5 10 292 19
+15d5 8 294 19
+15dd 2a 295 19
+1607 17 296 19
+FUNC 161e 40 c CallGetService(char const *,nsID const &,void * *)
+161e 4 65 229
+1622 5 66 229
+1627 11 67 229
+1638 8 68 229
+1640 11 69 229
+1651 b 70 229
+165c 2 71 229
+FUNC 165e 43 10 CallCreateInstance(char const *,nsISupports *,nsID const &,void * *)
+165e 4 115 229
+1662 5 116 229
+1667 11 117 229
+1678 8 118 229
+1680 14 120 229
+1694 b 121 229
+169f 2 122 229
+FUNC 16a1 2d 4 nsCreateInstanceByContractID::operator()(nsID const &,void * *)
+16a1 2 209 229
+16a3 16 210 229
+16b9 4 211 229
+16bd 3 212 229
+16c0 7 213 229
+16c7 4 214 229
+16cb 3 216 229
+FUNC 16ce 29 4 nsGetServiceByContractIDWithError::operator()(nsID const &,void * *)
+16ce 2 287 229
+16d0 12 288 229
+16e2 4 289 229
+16e6 3 290 229
+16e9 7 292 229
+16f0 4 293 229
+16f4 3 295 229
+FUNC 16f7 19 0 nsACString::BeginReading()
+16f7 4 569 497
+16fb d 571 497
+1708 6 572 497
+170e 2 573 497
+FUNC 1710 2c 4 nsID::Equals(nsID const &)
+1710 0 75 37
+1710 29 81 37
+1739 3 82 37
+FUNC 173c 45 8 NS_TableDrivenQI(void *,QITableEntry const *,nsID const &,void * *)
+173c 6 43 286
+1742 2 44 286
+1744 e 45 286
+1752 3 54 286
+1755 6 44 286
+175b 7 57 286
+1762 7 58 286
+1769 18 59 286
+FUNC 1781 1a 4 nsQueryInterface::operator()(nsID const &,void * *)
+1781 0 43 149
+1781 6 45 149
+1787 a 47 149
+1791 2 52 149
+1793 5 53 149
+1798 3 56 149
+FUNC 179b d 0 nsCOMPtr_base::~nsCOMPtr_base()
+179b 0 78 149
+179b 6 80 149
+17a1 6 81 149
+17a7 1 82 149
+FUNC 17a8 2a 4 nsCOMPtr_base::assign_from_qi(nsQueryInterface,nsID const &)
+17a8 5 94 149
+17ad 12 96 149
+17bf 4 97 149
+17c3 b 98 149
+17ce 4 99 149
+FUNC 17d2 2d 4 nsCOMPtr_base::assign_from_gs_contractid_with_error(nsGetServiceByContractIDWithError const &,nsID const &)
+17d2 8 139 149
+17da 12 141 149
+17ec 4 142 149
+17f0 b 143 149
+17fb 4 144 149
+FUNC 17ff 2e 4 nsCOMPtr_base::assign_from_helper(nsCOMPtr_helper const &,nsID const &)
+17ff 9 148 149
+1808 11 150 149
+1819 4 151 149
+181d c 152 149
+1829 4 153 149
+FUNC 182d 16 0 nsCOMPtr<nsIComponentManager>::StartAssignment()
+182d 3 877 171
+1830 f 881 171
+183f 3 882 171
+1842 1 884 171
+FUNC 1843 4e 4 NS_GetCurrentThread(nsIThread * *)
+1843 6 97 392
+1849 22 103 392
+186b 12 104 392
+187d 4 107 392
+1881 10 105 392
+FUNC 1891 4d 8 NS_ProcessNextEvent(nsIThread *,bool)
+1891 4 230 392
+1895 d 238 392
+18a2 e 239 392
+18b0 12 240 392
+18c2 2 246 392
+18c4 1a 245 392
+FUNC 18de 49 0 type_info::`vector deleting destructor'(unsigned int)
+FUNC 1927 f 0 __security_check_cookie
+1927 0 52 1382
+1927 6 55 1382
+192d 2 56 1382
+192f 2 57 1382
+1931 5 59 1382
+FUNC 193c 4b 0 pre_cpp_init
+193c 0 321 796
+193c a 323 796
+1946 5 333 796
+194b 2a 341 796
+1975 9 345 796
+197e 8 346 796
+1986 1 348 796
+FUNC 1987 176 0 __tmainCRTStartup
+1987 c 421 796
+1993 5 444 796
+1998 9 469 796
+19a1 8 470 796
+19a9 d 471 796
+19b6 4 473 796
+19ba 6 475 796
+19c0 2 476 796
+19c2 b 483 796
+19cd 5 484 796
+19d2 9 486 796
+19db a 488 796
+19e5 9 490 796
+19ee 6 492 796
+19f4 15 494 796
+1a09 11 496 796
+1a1a 6 504 796
+1a20 9 510 796
+1a29 11 512 796
+1a3a a 513 796
+1a44 5 516 796
+1a49 8 521 796
+1a51 17 532 796
+1a68 a 534 796
+1a72 d 596 796
+1a7f 1f 597 796
+1a9e 8 607 796
+1aa6 7 608 796
+1aad 17 614 796
+1ac4 8 620 796
+1acc a 627 796
+1ad6 7 628 796
+1add 8 630 796
+1ae5 6 631 796
+1aeb 7 632 796
+1af2 5 634 796
+1af7 6 635 796
+FUNC 1afd e2 0 pre_c_init
+1afd 0 232 796
+1afd 60 236 796
+1b5d d 244 796
+1b6a 14 252 796
+1b7e e 257 796
+1b8c e 258 796
+1b9a c 265 796
+1ba6 5 272 796
+1bab 5 283 796
+1bb0 9 290 796
+1bb9 c 291 796
+1bc5 5 294 796
+1bca 9 298 796
+1bd3 9 300 796
+1bdc 2 303 796
+1bde 1 304 796
+FUNC 1bdf a 0 mainCRTStartup
+1bdf 0 404 796
+1bdf 5 411 796
+1be4 5 413 796
+FUNC 1be9 5e 10 __ArrayUnwind(void *,unsigned int,int,void (*)(void *))
+1be9 c 119 872
+1bf5 4 122 872
+1bf9 5 124 872
+1bfe 9 126 872
+1c07 3 127 872
+1c0a 2 128 872
+1c0c 2c 130 872
+1c38 7 133 872
+1c3f 8 134 872
+FUNC 1c47 63 10 `eh vector destructor iterator'(void *,unsigned int,int,void (*)(void *))
+FUNC 1caa 104 0 __report_gsfailure
+1caa 9 140 954
+1cb3 5 170 954
+1cb8 6 171 954
+1cbe 6 172 954
+1cc4 6 173 954
+1cca 6 174 954
+1cd0 6 175 954
+1cd6 7 176 954
+1cdd 7 177 954
+1ce4 7 178 954
+1ceb 7 179 954
+1cf2 7 180 954
+1cf9 7 181 954
+1d00 1 182 954
+1d01 6 183 954
+1d07 3 190 954
+1d0a 5 191 954
+1d0f 3 192 954
+1d12 5 193 954
+1d17 3 194 954
+1d1a 5 195 954
+1d1f 6 201 954
+1d25 a 204 954
+1d2f a 206 954
+1d39 a 285 954
+1d43 a 286 954
+1d4d b 293 954
+1d58 b 294 954
+1d63 b 297 954
+1d6e 8 298 954
+1d76 8 302 954
+1d7e b 304 954
+1d89 9 313 954
+1d92 8 315 954
+1d9a 12 319 954
+1dac 2 320 954
+FUNC 1dae 3d 4 __CxxUnhandledExceptionFilter(_EXCEPTION_POINTERS *)
+1dae 0 67 1160
+1dae 33 68 1160
+1de1 5 69 1160
+1de6 2 72 1160
+1de8 3 73 1160
+FUNC 1deb e 0 __CxxSetUnhandledExceptionFilter
+1deb 0 86 1160
+1deb b 89 1160
+1df6 2 90 1160
+1df8 1 91 1160
+FUNC 1e00 a5 4 _onexit
+1e00 c 79 704
+1e0c 12 84 704
+1e1e 5 86 704
+1e23 c 90 704
+1e2f 8 103 704
+1e37 4 105 704
+1e3b b 107 704
+1e46 d 108 704
+1e53 1d 110 704
+1e70 a 112 704
+1e7a d 113 704
+1e87 c 115 704
+1e93 3 120 704
+1e96 6 121 704
+1e9c 9 117 704
+FUNC 1ea5 12 4 atexit
+1ea5 0 126 704
+1ea5 11 127 704
+1eb6 1 128 704
+FUNC 1eb7 24 0 _RTC_Initialize
+FUNC 1edb 24 0 _RTC_Terminate
+FUNC 1f10 29 4 _ValidateImageBase
+1f10 0 44 1117
+1f10 b 50 1117
+1f1b 2 52 1117
+1f1d 1 68 1117
+1f1e 5 55 1117
+1f23 6 56 1117
+1f29 2 58 1117
+1f2b d 62 1117
+1f38 1 68 1117
+FUNC 1f40 42 8 _FindPESection
+1f40 0 92 1117
+1f40 9 99 1117
+1f49 19 108 1117
+1f62 10 111 1117
+1f72 a 108 1117
+1f7c 5 123 1117
+1f81 1 124 1117
+FUNC 1f90 bb 4 _IsNonwritableInCurrentImage
+1f90 33 149 1117
+1fc3 7 156 1117
+1fca f 164 1117
+1fd9 2 166 1117
+1fdb 8 174 1117
+1fe3 e 175 1117
+1ff1 2 176 1117
+1ff3 2 178 1117
+1ff5 12 185 1117
+2007 12 195 1117
+2019 17 187 1117
+2030 9 193 1117
+2039 12 195 1117
+FUNC 2058 45 0 _SEH_prolog4
+FUNC 209d 14 0 _SEH_epilog4
+FUNC 20b1 23 10 _except_handler4
+FUNC 20d4 29 0 _setdefaultprecision
+20d4 1 30 1312
+20d5 27 31 1312
+20fc 1 32 1312
+FUNC 20fd 3 4 _matherr
+20fd 0 37 1036
+20fd 2 38 1036
+20ff 1 39 1036
+FUNC 2100 94 0 __security_init_cookie
+2100 6 97 994
+2106 21 114 994
+2127 7 116 994
+212e 3 117 994
+2131 a 127 994
+213b 6 132 994
+2141 8 135 994
+2149 8 136 994
+2151 8 137 994
+2159 10 139 994
+2169 2 144 994
+216b 4 161 994
+216f 7 163 994
+2176 4 166 994
+217a 7 168 994
+2181 6 172 994
+2187 b 173 994
+2192 2 175 994
+STACK WIN 4 1000 6 0 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1006 15 0 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 101b 2e f 0 c 0 0 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 101f 26 b 0 c 4 0 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1049 d 0 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1056 1d 0 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1073 19 0 0 c 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 108c 16 0 0 0 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 10a2 5 0 0 8 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 10a7 5 0 0 10 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 10ac 5 0 0 c 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 10b1 73 18 0 18 0 fa8 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 10c5 56 4 0 18 4 fa8 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 10c9 4d 0 0 18 8 fa8 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1124 18 0 0 10 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 113c 25 1 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 113d 23 0 0 4 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1161 19 9 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1168 f 2 0 4 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 117a 1a 7 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 117b 16 6 0 4 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1194 1e 3 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1195 1a 2 0 4 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 11b2 20 3 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 11b3 1c 2 0 4 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 11d2 1b 4 0 4 0 4 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 11ed 1d 3 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 11ee 19 2 0 4 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 120a 1d 2 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1227 ba 1e 0 4 0 20 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 122e af 17 0 4 4 20 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + = $ebx $T0 36 - ^ =
+STACK WIN 4 122f ad 16 0 4 8 20 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + = $ebx $T0 36 - ^ =
+STACK WIN 4 1230 ab 15 0 4 c 20 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + = $ebx $T0 36 - ^ =
+STACK WIN 4 12e1 209 9 0 4 0 3c 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 12e8 30 2 0 4 4 3c 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + = $ebx $T0 64 - ^ =
+STACK WIN 4 12e9 2e 1 0 4 8 3c 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + = $ebx $T0 64 - ^ =
+STACK WIN 4 12ea 2a 0 0 4 c 3c 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + = $ebx $T0 64 - ^ =
+STACK WIN 4 14ea 134 c 0 8 0 20 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 14f1 3d 5 0 8 4 20 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + = $ebx $T0 36 - ^ =
+STACK WIN 4 14f2 de 4 0 8 8 20 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + = $ebx $T0 36 - ^ =
+STACK WIN 4 14f6 34 0 0 8 c 20 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + = $ebx $T0 36 - ^ =
+STACK WIN 4 161e 40 9 0 c 0 4 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1627 35 0 0 c 4 4 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 165e 43 9 0 10 0 4 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1667 38 0 0 10 4 4 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 16a1 2d 9 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 16a2 29 8 0 4 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 16a3 27 7 0 4 8 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 16ce 29 9 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 16cf 25 8 0 4 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 16d0 23 7 0 4 8 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 16f7 19 4 0 0 0 4 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1710 2c 0 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 173c 45 6 0 8 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 173d 2c 5 0 8 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 173e 2a 4 0 8 8 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1781 1a 0 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 179b d 0 0 0 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 17a8 2a a 0 4 0 4 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 17ad 21 5 0 4 4 4 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 17d2 2d 6 0 4 0 0 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 17d6 25 2 0 4 4 0 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 17ff 2e 6 0 4 0 0 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1803 26 2 0 4 4 0 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1806 22 0 0 4 8 0 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 182d 16 3 0 0 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 182e 14 2 0 0 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1843 4e b 0 4 0 10 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 184e 2f 0 0 4 4 10 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1891 4d 8 0 8 0 4 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1899 29 0 0 8 4 4 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + = $ebx $T0 8 - ^ =
+STACK WIN 4 18de 49 b 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 18df 45 a 0 4 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + = $ebx $T0 4 - ^ =
+STACK WIN 4 18e7 3c 2 0 4 8 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + = $ebx $T0 4 - ^ =
+STACK WIN 4 18ec 21 0 0 4 c 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + = $ebx $T0 4 - ^ =
+STACK WIN 4 1927 f 0 0 0 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 193c 4b 0 0 0 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1987 176 c 0 0 c 20 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1aad 14 0 0 0 c 20 0 1 $T0 $ebp = $T2 $esp = $T1 .raSearchStart = $eip $T1 ^ = $ebp $T0 = $esp $T1 4 + = $L $T0 .cbSavedRegs - = $P $T1 4 + .cbParams + =
+STACK WIN 4 1afd e2 0 0 0 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1bdf a 0 0 0 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1be9 5e c 0 10 c 24 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1c0c 23 0 0 10 c 24 0 1 $T0 $ebp = $T2 $esp = $T1 .raSearchStart = $eip $T1 ^ = $ebp $T0 = $esp $T1 4 + = $L $T0 .cbSavedRegs - = $P $T1 4 + .cbParams + =
+STACK WIN 4 1c47 63 c 0 10 c 1c 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1c92 17 0 0 10 c 1c 0 1 $T0 $ebp = $T2 $esp = $T1 .raSearchStart = $eip $T1 ^ = $ebp $T0 = $esp $T1 4 + = $L $T0 .cbSavedRegs - = $P $T1 4 + .cbParams + =
+STACK WIN 4 1caa 104 9 0 0 0 328 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1dae 3d 0 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1deb e 0 0 0 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1e00 a5 c 0 4 c 24 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1e9c 8 0 0 4 c 24 0 1 $T0 $ebp = $T2 $esp = $T1 .raSearchStart = $eip $T1 ^ = $ebp $T0 = $esp $T1 4 + = $L $T0 .cbSavedRegs - = $P $T1 4 + .cbParams + =
+STACK WIN 4 1ea5 12 0 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1eb7 24 2 0 0 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1eb8 22 1 0 0 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1eb9 20 0 0 0 8 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1edb 24 2 0 0 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1edc 22 1 0 0 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1edd 20 0 0 0 8 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1f10 29 0 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1f40 42 18 0 8 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 1f4e 33 a 0 8 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + = $ebx $T0 4 - ^ =
+STACK WIN 4 1f4f 31 9 0 8 8 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + = $ebx $T0 4 - ^ =
+STACK WIN 4 1f58 27 0 0 8 c 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + = $ebx $T0 4 - ^ =
+STACK WIN 4 1f90 bb 33 0 4 c 18 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 1faa a1 19 0 4 10 18 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + = $ebx $T0 28 - ^ =
+STACK WIN 4 2019 14 0 0 4 c 18 0 1 $T0 $ebp = $T2 $esp = $T1 .raSearchStart = $eip $T1 ^ = $ebp $T0 = $esp $T1 4 + = $L $T0 .cbSavedRegs - = $P $T1 4 + .cbParams + = $ebx $T0 28 - ^ =
+STACK WIN 4 20b1 23 0 0 10 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 20d4 29 1 0 0 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 20d5 27 0 0 0 4 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 20fd 3 0 0 4 0 0 0 1 $T2 $esp .cbLocals + .cbSavedRegs + = $T0 .raSearchStart = $eip $T0 ^ = $esp $T0 4 + =
+STACK WIN 4 2100 94 15 0 0 0 10 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + =
+STACK WIN 4 2114 7e 1 0 0 4 10 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + = $ebx $T0 20 - ^ =
+STACK WIN 4 2115 7c 0 0 0 8 10 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + = $ebx $T0 20 - ^ =
+STACK WIN 4 2131 5f 0 0 0 c 10 0 1 $T0 $ebp = $eip $T0 4 + ^ = $ebp $T0 ^ = $esp $T0 8 + = $L $T0 .cbSavedRegs - = $P $T0 8 + .cbParams + = $ebx $T0 20 - ^ =
+STACK WIN 0 1aad 14 0 0 0 0 0 0 0 0
+STACK WIN 0 1c0c 24 0 0 0 0 0 0 0 0
+STACK WIN 0 1c92 18 0 0 0 0 0 0 0 0
+STACK WIN 0 1e9c 9 0 0 0 0 0 0 0 0
+STACK WIN 0 2019 14 0 0 0 0 0 0 0 0

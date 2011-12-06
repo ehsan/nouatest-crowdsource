@@ -1,0 +1,1 @@
+[include:security/manager/ssl/tests/unit/xpcshell.ini]
