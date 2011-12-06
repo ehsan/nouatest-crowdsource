@@ -7,6 +7,8 @@ SET CWD=%CD%
 
 IF EXIST %XPCSHELL_TEST_PROFILE_DIR% RD /S /Q %XPCSHELL_TEST_PROFILE_DIR%
 
+%CWD%\elevatedRunner.exe installer.exe
+
 MKDIR %XPCSHELL_TEST_PROFILE_DIR%
 CD %CWD%\build\xpcshell\tests\toolkit\mozapps\update\test\unit
 
@@ -381,3 +383,6 @@ CD %CWD%\build\xpcshell\tests\toolkit\mozapps\update\test\unit
 "%CWD%\build\firefox\xpcshell.exe" "-g" "..\..\..\..\..\..\..\..\build\\firefox" "-a" "..\..\..\..\..\..\..\..\build\\firefox" "-r" "../../../../../../../../build/firefox/components/httpd.manifest" "-j" "-s" "-e" "const _HTTPD_JS_PATH = \"../../../../../../../../build/firefox/components/httpd.js\";" "-e" "const _HEAD_JS_PATH = \"../../../../../../../../build/xpcshell/head.js\";" "-f" "..\..\..\..\..\..\..\..\build\\xpcshell\\head.js" "-e" "const _SERVER_ADDR = \"localhost\"" "-e" "const _HEAD_FILES = [\"../../../../../../../../build/xpcshell/tests/toolkit/mozapps/update/test/unit/head_update.js\"];" "-e" "const _TAIL_FILES = [];" "-e" "const _TEST_FILE = [\"../../../../../../../../build/xpcshell/tests/toolkit/mozapps/update/test/unit/test_0200_app_launch_apply_update_svc.js\"];" "-e" "_execute_test(); quit(0);"
 
 CD %CWD%
+IF EXIST %XPCSHELL_TEST_PROFILE_DIR% RD /S /Q %XPCSHELL_TEST_PROFILE_DIR%
+
+%CWD%\elevatedRunner.exe uninstaller.exe
