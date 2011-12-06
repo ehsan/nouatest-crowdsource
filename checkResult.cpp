@@ -7,7 +7,7 @@
 #pragma comment(lib, "Shell32.lib")
 
 int main() {
-  FILE* file = fopen("log.txt", "r");
+  FILE* file = fopen("log.txt", "rb");
   if (!file) {
     return -1;
   }
