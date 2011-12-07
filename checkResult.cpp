@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <direct.h>
 #include <windows.h>
 #include <shellapi.h>
 #pragma comment(lib, "user32.lib")
@@ -19,7 +20,10 @@ int main() {
       success = false;
       MessageBoxA(NULL, "The test has failed.\r\n\r\nPlease submit the log file for further investigation.", "Test", MB_ICONSTOP);
       CoInitializeEx(NULL, COINIT_APARTMENTTHREADED | COINIT_DISABLE_OLE1DDE);
-      ShellExecuteA(NULL, "open", "explorer.exe", "/select, log.txt", NULL, SW_NORMAL);
+      char cwd[1024];
+      char cmdline[2048];
+      sprintf(cmdline, "/select,%s\\log.txt", _getcwd(cwd, sizeof(cwd)));
+      ShellExecuteA(NULL, "open", "explorer.exe", cmdline, NULL, SW_NORMAL);
       break;
     }
   }
