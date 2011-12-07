@@ -249,6 +249,8 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE /* hPrevInstance */, LPSTR /
   
   HANDLE hProcess = 0;
 #ifdef _SHELL_EXECUTE
+  executeFile.Replace(L"%%T", tempDirPath);
+  executeParameters.Replace(L"%%T", tempDirPath);
   if (!executeFile.IsEmpty())
   {
     CSysString filePath = GetSystemString(executeFile);
