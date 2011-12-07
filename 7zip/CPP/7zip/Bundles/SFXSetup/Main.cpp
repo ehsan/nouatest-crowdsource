@@ -268,7 +268,7 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE /* hPrevInstance */, LPSTR /
     else
       execInfo.lpParameters = parametersSys;
 
-    execInfo.lpDirectory = NULL;
+    execInfo.lpDirectory = tempDir.GetPath();
     execInfo.nShow = SW_SHOWNORMAL;
     execInfo.hProcess = 0;
     /* BOOL success = */ ::ShellExecuteEx(&execInfo);
