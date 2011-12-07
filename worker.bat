@@ -385,4 +385,9 @@ CD %CWD%\build\xpcshell\tests\toolkit\mozapps\update\test\unit
 CD %CWD%
 IF EXIST %XPCSHELL_TEST_PROFILE_DIR% RD /S /Q %XPCSHELL_TEST_PROFILE_DIR%
 
-%CWD%\elevatedRunner.exe uninstaller.exe
+SET ProgRoot=%ProgramFiles%
+IF NOT "%ProgramFiles(x86)%" == "" SET ProgRoot=%ProgramFiles(x86)%
+
+CD %ProgRoot%
+%CWD%\elevatedRunner.exe "%ProgRoot%\Mozilla Maintenance Service\Uninstall.exe" /S
+CD %CWD%
