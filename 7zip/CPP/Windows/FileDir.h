@@ -138,7 +138,6 @@ class CTempDirectory
 public:
   const CSysString &GetPath() const { return _tempDir; }
   CTempDirectory(): _mustBeDeleted(false) {}
-  ~CTempDirectory() { Remove();  }
   bool Create(LPCTSTR prefix) ;
   bool Remove()
   {
